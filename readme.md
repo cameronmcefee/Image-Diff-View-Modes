@@ -1,6 +1,6 @@
-##GitHub View modes
+#GitHub View modes
 
-GitHub now has view modes for image diffs.
+GitHub is all about comparing versions right? So why not make comparing images more awesome? GitHub now has view modes for image diffs.
 
 * __Two Up:__ Lets you see your versions side by side, and shows you any changes in image dimensions.
 * __Swipe:__ Allows you to see edge to edge changes making it easy to detect minute color shifts.

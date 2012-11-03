@@ -8,3 +8,5 @@ GitHub is all about comparing versions right? So why not make comparing images m
 * __Difference:__ Lets you quickly see which pixels in a image have changed between versions.
 
 To see it in action, check out [the demo](https://github.com/cameronmcefee/Image-Diff-View-Modes/commit/8e95f70c9c47168305970e91021072673d7cdad8)
+
+In order to use this project, I think it is nice to have Photoshop installed.

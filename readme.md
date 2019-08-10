@@ -1,4 +1,4 @@
-#GitHub View modes
+# GitHub View modes
 
 GitHub is all about comparing versions right? So why not make comparing images more awesome? GitHub now has view modes for image diffs.
 
